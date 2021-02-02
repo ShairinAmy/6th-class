@@ -1,0 +1,28 @@
+.bg_yellow{
+    color: red;
+}
+.border{
+    border: 1px dashed red;
+}
+#h1{
+    font-size: 50px;
+    color: green;
+}
+h1{
+    color:blue
+}
+div{
+    height:50px;
+    width: 50%;
+    background-color: aquamarine;
+}
+.div1{
+    height:50px;
+    width: 50%;
+    background-color: #000000;
+}
+.div2{
+    height:50px;
+    width: 50%;
+    background-color: rgba(157, 33, 33, .5);
+}
